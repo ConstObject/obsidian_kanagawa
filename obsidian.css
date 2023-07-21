@@ -114,7 +114,7 @@
     --text-link:                  var(--springBlue);
     --text-a:                     var(--waveRed);
     --text-a-hover:               var(--peachRed);
-    --text-a-url:                 var(--dragonBlue); /*hover internal link, graph view link and standalone links*. External Links no*/
+    --text-a-url:                 var(--katanaGray); /*hover internal link, graph view link and standalone links*. External Links no*/
     --text-mark:                  rgba(34, 50, 73, 0.4); /* waveBlue1 */
     --pre-code:                   var(--sumiInk0);
     --text-highlight-bg:          var(--waveBlue1);
