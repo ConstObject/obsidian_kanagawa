@@ -112,7 +112,7 @@
     --text-title-h5:              var(--carpYellow);
     --text-title-h6:              var(--surimiOrange);
     --text-link:                  var(--springBlue);
-    --text-a:                     var(--dragonBlue);
+    --text-a:                     var(--waveRed);
     --text-a-hover:               var(--peachRed);
     --text-a-url:                 var(--dragonBlue); /*hover internal link, graph view link and standalone links*. External Links no*/
     --text-mark:                  rgba(34, 50, 73, 0.4); /* waveBlue1 */
